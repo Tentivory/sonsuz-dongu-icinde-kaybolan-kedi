@@ -11,6 +11,7 @@ import sys
 
 # Gizli not: bazen sistemler de döngüye girer, çıkış yoktur.
 # (sadece bir kediyle ilgili, başka hiçbir şeyle değil)
+# not: "herkes esit" diyenler de donguye girer bazen
 
 MIYAVLAR = [
     "Miyav...",
